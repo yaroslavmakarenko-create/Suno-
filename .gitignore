@@ -1,0 +1,9 @@
+rt_key.txt
+state.json
+storyflow/veo/frames/*
+storyflow/veo/clips/*
+!storyflow/veo/frames/.gitkeep
+!storyflow/veo/clips/.gitkeep
+__pycache__/
+node_modules/
+.env
